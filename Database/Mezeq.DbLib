@@ -1,0 +1,605 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;User ID=postgres;Data Source=MezeqAltiumLib
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=0
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=..\Symbols;..\Footprints
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=ALTIUM
+LastFocusedTable=all_components
+[Table1]
+SchemaName=
+TableName=all_components
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=component_models
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=component_parameters
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=components
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=components_poc
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=connectors_headers
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=connectors_quick_connect
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=connectors_rf
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=connectors_terminals
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=connectors_usb
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=electromechanical_switches
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=ics_amplifiers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=part_id0=105|Description0=417|Library Ref0=131|Library Path0=340|Footprint Ref0=139|Footprint Path0=335|Category0=109|Subcategory0=135|Status0=96|Access Time0=132|Accuracy0=108|Actuator Type0=147|AEC Qualified0=144|altium.hash0=128|Ambient Temperature Range High0=302|Ambient Temperature Range Low0=296|Angle0=84|Automotive0=129|Available Preview Images0=231|Bandwidth0=121|Body Material0=145|Capacitance0=133|Capacitor Type0=154|Case0=76|Case Code (Imperial)0=198|Case Code (Metric)0=184|Case/Package0=146|Case\/Package0=152|Case\Package0=145|Color0=81|Comment0=131|Component Type0=172|ComponentLink10Description0=265|ComponentLink10URL0=209|ComponentLink11Description0=265|ComponentLink11URL0=209|ComponentLink12Description0=265|ComponentLink12URL0=209|ComponentLink1Description0=256|ComponentLink1URL0=200|ComponentLink2Description0=256|ComponentLink2URL0=200|ComponentLink3Description0=256|ComponentLink3URL0=200|ComponentLink4Description0=256|ComponentLink4URL0=200|ComponentLink5Description0=256|ComponentLink5URL0=200|ComponentLink6Description0=256|ComponentLink6URL0=200|ComponentLink7Description0=256|ComponentLink7URL0=200|ComponentLink8Description0=256|ComponentLink8URL0=200|ComponentLink9Description0=256|ComponentLink9URL0=200|Composition0=137|Connector Type0=161|Construction0=138|Contact Finish - Mating0=219|Contact Gender0=161|Contact Material0=167|Contact Mating Length0=217|Contact Plating0=158|Contact Resistance0=184|Contact Shape0=152|Contact Type0=141|ContentHash0=140|Continuous Drain Current (ID)0=269|Core Material0=143|Current - Continuous Drain (Id) @ 25°C0=340|Current - Hold (Ih) (Max)0=228|Current - Peak Pulse (10/1000µs)0=289|Current - Trip (It)0=170|Current Rating0=152|Datasheet Path0=157|Datasheet URL0=152|Datasheet Version0=179|DatasheetVersion0=174|DC Resistance (DCR)0=195|Depth0=87|Design Item ID0=154|Device Class L10=155|Device Class L20=155|Device Class L30=155|Diameter0=110|Diameter, Hole0=154|Dielectric0=110|Dielectric Material0=177|Digikey Description0=186|Dissipation Factor0=175|Dominant Wavelength0=212|Drain to Source Voltage (Vdss)0=273|Electrical Life0=138|Element Configuration0=212|ESR (Equivalent Series Resistance)0=295|Fall Time0=107|Fastening Type0=154|Features0=104|Finish0=83|Finish Plating0=141|Flammability Rating0=190|Footprint Url0=137|Forward Current0=164|Forward Voltage0=165|Frequency0=118|Gate to Source Voltage (Vgs)0=261|Gender0=96|Glow Wire Compliant0=202|Halogen Free0=141|Height0=91|Height - Seated (Max)0=207|helpURL0=103|Hold Current0=139|Housing Color0=149|Housing Material0=170|Illumination Color0=177|Illumination Type0=172|Impedance0=125|Inductance0=125|Inductance Tolerance0=204|Input Capacitance0=179|Insulation Color0=161|Insulation Material0=182|Insulation Resistance0=199|Insulation Type0=156|Interface0=107|Ipc Land Pattern Name0=217|JESD-609 Code0=155|Lead Diameter0=151|Lead Free0=113|Lead Pitch0=119|Leakage Current0=165|Length0=93|Length, Overall0=155|Lens Color0=120|Lens Style0=115|Lens Transparency0=180|Life (Hours)0=126|Lifecycle Status0=155|Load Capacitance0=175|Luminous Intensity0=184|Manufacturer 10=157|Manufacturer 20=157|Manufacturer 30=157|Manufacturer Lifecycle Status0=263|Manufacturer Part Number 10=261|Manufacturer Part Number 20=261|Manufacturer Part Number 30=261|Manufacturer URL0=178|Material0=102|Material, Contact0=171|Max Current Rating0=189|Max DC Current0=163|Max Input Voltage0=182|Max Operating Temperature0=257|Max Output Current0=195|Max Output Voltage0=196|Max Power Dissipation0=212|Max Supply Voltage0=192|Max Voltage Rating (AC)0=227|Mechanical Life0=157|Memory Size0=138|Memory Type0=144|Military Standard0=170|Min Input Voltage0=179|Min Operating Temperature0=254|Min Output Voltage0=193|Min Supply Voltage0=189|Mount0=91|Mount Angle0=140|Mounting0=115|Mounting Hole Size0=190|Mounting Technology0=208|Mouser Description0=188|Multilayer0=115|NexarCadSource0=167|NexarCadSourceId0=182|NexarPartId0=131|Nominal Supply Current0=224|Number of A/D Converters0=245|Number of Bits0=155|Number of Circuits0=184|Number of Contacts0=195|Number of Elements0=197|Number of Inputs0=176|Number of LEDs0=164|Number of Outputs0=190|Number Of Outputs_10=209|Number of Pins0=159|Number of Positions0=196|Number of Rows0=167|Number of Terminations0=227|Octopart0=108|Operating Force0=163|Operating Supply Current0=236|Operating Supply Voltage0=237|Operating Temperature Range0=273|Orientation0=127|Output Configuration0=205|Output Current0=158|Output Type0=136|Output Voltage0=159|Package0=103|Package Description0=194|Package Height0=159|Package Length0=161|Package Quantity0=174|Package Reference0=183|Package Shape0=155|Package Style0=144|Package URL0=138|Package Width0=154|PackageDescription0=189|PackageReference0=178|Packaging0=118|Pins0=71|Pitch0=78|Power0=87|Power Dissipation0=175|Power Rating0=141|Pricing0=92|Primary Type0=139|Q Factor0=105|Quiescent Current0=179|Radiation Hardening0=197|Rated Current-Max0=186|Rated DC Voltage (URdc)0=231|Rated Temperature0=187|Ratings0=96|Rds On Max0=132|REACH SVHC0=141|Reach SVHC Compliant0=218|Reference Standard0=189|Resistance0=119|Resistance Tolerance0=198|Resistor Type0=140|Reverse Voltage0=162|Ripple Current0=150|Ripple Current (AC)0=187|Rise Time0=112|RMS Current (Irms)0=185|RoHS0=81|RoHS Compliant0=165|RoHSCompliant0=160|Row Spacing0=137|Sampling Rate0=150|Saturation Current0=182|Schedule B0=124|Self Resonant Frequency0=226|Sensor Output0=151|Series0=84|Shielding0=110|Silkscreen0=114|Size Code0=115|SizeZ_mm0=117|Source0=92|Standards0=116|Standoff Height0=160|Stock0=81|Supplier 10=116|Supplier 20=116|Supplier Part Number 10=220|Supplier Part Number 20=220|Switch Function0=160|Switch Travel0=139|Switching Frequency0=196|Switching Topology0=189|Synchronous Rectifier0=204|Tab Fit0=91|Technology0=128|Temperature0=138|Temperature Characteristic0=246|Temperature Characteristics Code0=298|Temperature Coefficient0=224|Temperature Coefficient (ppm/Cel)0=305|Temperature Range High0=232|Temperature Range Low0=226|Terminal Finish0=154|Terminal Style0=147|Terminal Type0=147|Termination0=132|Test Current0=134|Test Frequency0=154|Thickness0=112|Throw Configuration0=197|TJmax_C0=105|Tolerance0=114|Tolerance  (fill in as +-)0=215|Tolerance (fill in as +-)0=210|Trip Current0=132|Trip Time0=111|Turn-Off Delay Time0=194|Turn-On Delay Time0=194|Type0=76|Type (Capacitors)0=171|Value0=83|Viewing Angle0=149|Voltage0=99|Voltage - Breakdown (Min)0=244|Voltage - Clamping (Max) @ Ipp0=287|Voltage - Reverse Standoff (Typ)0=285|Voltage Rating0=153|Voltage Rating (DC)0=191|Washable0=114|Weight0=95|Width0=86|Width, Overall0=148|Working Voltage0=168
+[Table13]
+SchemaName=
+TableName=ics_data_converters
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=ics_interface_and_i_o
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=ics_led_drivers
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=ics_logic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=ics_memory
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table18]
+SchemaName=
+TableName=ics_microcontrollers
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table19]
+SchemaName=
+TableName=ics_motor_drivers
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table20]
+SchemaName=
+TableName=ics_power_management
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table21]
+SchemaName=
+TableName=ics_sensors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table22]
+SchemaName=
+TableName=modules_wireless
+Enabled=True
+UserWhere=0
+UserWhereText=part_id = '{part_id}'
+[Table23]
+SchemaName=
+TableName=passives_capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table24]
+SchemaName=
+TableName=passives_crystals
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table25]
+SchemaName=
+TableName=passives_inductors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table26]
+SchemaName=
+TableName=passives_resistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table27]
+SchemaName=
+TableName=pcb_and_mechanical_fiducials
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table28]
+SchemaName=
+TableName=pcb_and_mechanical_mounting_holes
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table29]
+SchemaName=
+TableName=pcb_and_mechanical_net_ties
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table30]
+SchemaName=
+TableName=pcb_and_mechanical_test_points
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table31]
+SchemaName=
+TableName=protection_resettable_fuses
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table32]
+SchemaName=
+TableName=protection_tvs_diodes
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table33]
+SchemaName=
+TableName=semiconductors_diodes
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table34]
+SchemaName=
+TableName=semiconductors_leds
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table35]
+SchemaName=
+TableName=semiconductors_mosfets
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=all_components.Description|TableNameOnly=all_components|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=all_components.Library Ref|TableNameOnly=all_components|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=all_components.Library Path|TableNameOnly=all_components|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=all_components.Footprint Ref|TableNameOnly=all_components|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=all_components.Footprint Path|TableNameOnly=all_components|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=connectors_headers.part_id|TableNameOnly=connectors_headers|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=connectors_headers.Description|TableNameOnly=connectors_headers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=connectors_headers.Library Ref|TableNameOnly=connectors_headers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=connectors_headers.Library Path|TableNameOnly=connectors_headers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=connectors_headers.Footprint Ref|TableNameOnly=connectors_headers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=connectors_headers.Footprint Path|TableNameOnly=connectors_headers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=connectors_quick_connect.part_id|TableNameOnly=connectors_quick_connect|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=connectors_quick_connect.Description|TableNameOnly=connectors_quick_connect|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=connectors_quick_connect.Library Ref|TableNameOnly=connectors_quick_connect|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=connectors_quick_connect.Library Path|TableNameOnly=connectors_quick_connect|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=connectors_quick_connect.Footprint Ref|TableNameOnly=connectors_quick_connect|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=connectors_quick_connect.Footprint Path|TableNameOnly=connectors_quick_connect|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=connectors_rf.part_id|TableNameOnly=connectors_rf|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=connectors_rf.Description|TableNameOnly=connectors_rf|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=connectors_rf.Library Ref|TableNameOnly=connectors_rf|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=connectors_rf.Library Path|TableNameOnly=connectors_rf|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=connectors_rf.Footprint Ref|TableNameOnly=connectors_rf|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=connectors_rf.Footprint Path|TableNameOnly=connectors_rf|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=connectors_terminals.part_id|TableNameOnly=connectors_terminals|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=connectors_terminals.Description|TableNameOnly=connectors_terminals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=connectors_terminals.Library Ref|TableNameOnly=connectors_terminals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=connectors_terminals.Library Path|TableNameOnly=connectors_terminals|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=connectors_terminals.Footprint Ref|TableNameOnly=connectors_terminals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=connectors_terminals.Footprint Path|TableNameOnly=connectors_terminals|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=connectors_usb.part_id|TableNameOnly=connectors_usb|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=connectors_usb.Description|TableNameOnly=connectors_usb|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=connectors_usb.Library Ref|TableNameOnly=connectors_usb|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=connectors_usb.Library Path|TableNameOnly=connectors_usb|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=connectors_usb.Footprint Ref|TableNameOnly=connectors_usb|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=connectors_usb.Footprint Path|TableNameOnly=connectors_usb|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=electromechanical_switches.part_id|TableNameOnly=electromechanical_switches|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=electromechanical_switches.Description|TableNameOnly=electromechanical_switches|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=electromechanical_switches.Library Ref|TableNameOnly=electromechanical_switches|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=electromechanical_switches.Library Path|TableNameOnly=electromechanical_switches|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=electromechanical_switches.Footprint Ref|TableNameOnly=electromechanical_switches|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=electromechanical_switches.Footprint Path|TableNameOnly=electromechanical_switches|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=ics_amplifiers.part_id|TableNameOnly=ics_amplifiers|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=ics_amplifiers.Description|TableNameOnly=ics_amplifiers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=ics_amplifiers.Library Ref|TableNameOnly=ics_amplifiers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=ics_amplifiers.Library Path|TableNameOnly=ics_amplifiers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=ics_amplifiers.Footprint Ref|TableNameOnly=ics_amplifiers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=ics_amplifiers.Footprint Path|TableNameOnly=ics_amplifiers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=ics_data_converters.part_id|TableNameOnly=ics_data_converters|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=ics_data_converters.Description|TableNameOnly=ics_data_converters|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=ics_data_converters.Library Ref|TableNameOnly=ics_data_converters|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=ics_data_converters.Library Path|TableNameOnly=ics_data_converters|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=ics_data_converters.Footprint Ref|TableNameOnly=ics_data_converters|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=ics_data_converters.Footprint Path|TableNameOnly=ics_data_converters|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=ics_interface_and_i_o.part_id|TableNameOnly=ics_interface_and_i_o|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=ics_interface_and_i_o.Description|TableNameOnly=ics_interface_and_i_o|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=ics_interface_and_i_o.Library Ref|TableNameOnly=ics_interface_and_i_o|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=ics_interface_and_i_o.Library Path|TableNameOnly=ics_interface_and_i_o|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=ics_interface_and_i_o.Footprint Ref|TableNameOnly=ics_interface_and_i_o|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=ics_interface_and_i_o.Footprint Path|TableNameOnly=ics_interface_and_i_o|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=ics_led_drivers.part_id|TableNameOnly=ics_led_drivers|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=ics_led_drivers.Description|TableNameOnly=ics_led_drivers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=ics_led_drivers.Library Ref|TableNameOnly=ics_led_drivers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=ics_led_drivers.Library Path|TableNameOnly=ics_led_drivers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=ics_led_drivers.Footprint Ref|TableNameOnly=ics_led_drivers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=ics_led_drivers.Footprint Path|TableNameOnly=ics_led_drivers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=ics_logic.part_id|TableNameOnly=ics_logic|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=ics_logic.Description|TableNameOnly=ics_logic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=ics_logic.Library Ref|TableNameOnly=ics_logic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=ics_logic.Library Path|TableNameOnly=ics_logic|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=ics_logic.Footprint Ref|TableNameOnly=ics_logic|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=ics_logic.Footprint Path|TableNameOnly=ics_logic|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=ics_memory.part_id|TableNameOnly=ics_memory|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=ics_memory.Description|TableNameOnly=ics_memory|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=ics_memory.Library Ref|TableNameOnly=ics_memory|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=ics_memory.Library Path|TableNameOnly=ics_memory|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=ics_memory.Footprint Ref|TableNameOnly=ics_memory|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=ics_memory.Footprint Path|TableNameOnly=ics_memory|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=ics_microcontrollers.part_id|TableNameOnly=ics_microcontrollers|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=ics_microcontrollers.Description|TableNameOnly=ics_microcontrollers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=ics_microcontrollers.Library Ref|TableNameOnly=ics_microcontrollers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=ics_microcontrollers.Library Path|TableNameOnly=ics_microcontrollers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=ics_microcontrollers.Footprint Ref|TableNameOnly=ics_microcontrollers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=ics_microcontrollers.Footprint Path|TableNameOnly=ics_microcontrollers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=ics_motor_drivers.part_id|TableNameOnly=ics_motor_drivers|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=ics_motor_drivers.Description|TableNameOnly=ics_motor_drivers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=ics_motor_drivers.Library Ref|TableNameOnly=ics_motor_drivers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=ics_motor_drivers.Library Path|TableNameOnly=ics_motor_drivers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=ics_motor_drivers.Footprint Ref|TableNameOnly=ics_motor_drivers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=ics_motor_drivers.Footprint Path|TableNameOnly=ics_motor_drivers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=ics_power_management.part_id|TableNameOnly=ics_power_management|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=ics_power_management.Description|TableNameOnly=ics_power_management|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=ics_power_management.Library Ref|TableNameOnly=ics_power_management|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=ics_power_management.Library Path|TableNameOnly=ics_power_management|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=ics_power_management.Footprint Ref|TableNameOnly=ics_power_management|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=ics_power_management.Footprint Path|TableNameOnly=ics_power_management|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=ics_sensors.part_id|TableNameOnly=ics_sensors|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=ics_sensors.Description|TableNameOnly=ics_sensors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=ics_sensors.Library Ref|TableNameOnly=ics_sensors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=ics_sensors.Library Path|TableNameOnly=ics_sensors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=ics_sensors.Footprint Ref|TableNameOnly=ics_sensors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=ics_sensors.Footprint Path|TableNameOnly=ics_sensors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=modules_wireless.part_id|TableNameOnly=modules_wireless|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=modules_wireless.Description|TableNameOnly=modules_wireless|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=modules_wireless.Library Ref|TableNameOnly=modules_wireless|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=modules_wireless.Library Path|TableNameOnly=modules_wireless|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=modules_wireless.Footprint Ref|TableNameOnly=modules_wireless|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=modules_wireless.Footprint Path|TableNameOnly=modules_wireless|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=passives_capacitors.part_id|TableNameOnly=passives_capacitors|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=passives_capacitors.Description|TableNameOnly=passives_capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=passives_capacitors.Library Ref|TableNameOnly=passives_capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=passives_capacitors.Library Path|TableNameOnly=passives_capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=passives_capacitors.Footprint Ref|TableNameOnly=passives_capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=passives_capacitors.Footprint Path|TableNameOnly=passives_capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=passives_crystals.part_id|TableNameOnly=passives_crystals|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=passives_crystals.Description|TableNameOnly=passives_crystals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=passives_crystals.Library Ref|TableNameOnly=passives_crystals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=passives_crystals.Library Path|TableNameOnly=passives_crystals|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=passives_crystals.Footprint Ref|TableNameOnly=passives_crystals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=passives_crystals.Footprint Path|TableNameOnly=passives_crystals|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=passives_inductors.part_id|TableNameOnly=passives_inductors|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=passives_inductors.Description|TableNameOnly=passives_inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=passives_inductors.Library Ref|TableNameOnly=passives_inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=passives_inductors.Library Path|TableNameOnly=passives_inductors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=passives_inductors.Footprint Ref|TableNameOnly=passives_inductors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=passives_inductors.Footprint Path|TableNameOnly=passives_inductors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=passives_resistors.part_id|TableNameOnly=passives_resistors|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=passives_resistors.Description|TableNameOnly=passives_resistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=passives_resistors.Library Ref|TableNameOnly=passives_resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=passives_resistors.Library Path|TableNameOnly=passives_resistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=passives_resistors.Footprint Ref|TableNameOnly=passives_resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=passives_resistors.Footprint Path|TableNameOnly=passives_resistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=pcb_and_mechanical_fiducials.part_id|TableNameOnly=pcb_and_mechanical_fiducials|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=pcb_and_mechanical_fiducials.Description|TableNameOnly=pcb_and_mechanical_fiducials|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=pcb_and_mechanical_fiducials.Library Ref|TableNameOnly=pcb_and_mechanical_fiducials|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=pcb_and_mechanical_fiducials.Library Path|TableNameOnly=pcb_and_mechanical_fiducials|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=pcb_and_mechanical_fiducials.Footprint Ref|TableNameOnly=pcb_and_mechanical_fiducials|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=pcb_and_mechanical_fiducials.Footprint Path|TableNameOnly=pcb_and_mechanical_fiducials|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=pcb_and_mechanical_mounting_holes.part_id|TableNameOnly=pcb_and_mechanical_mounting_holes|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
+Options=FieldName=pcb_and_mechanical_mounting_holes.Description|TableNameOnly=pcb_and_mechanical_mounting_holes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=pcb_and_mechanical_mounting_holes.Library Ref|TableNameOnly=pcb_and_mechanical_mounting_holes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap141]
+Options=FieldName=pcb_and_mechanical_mounting_holes.Library Path|TableNameOnly=pcb_and_mechanical_mounting_holes|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap142]
+Options=FieldName=pcb_and_mechanical_mounting_holes.Footprint Ref|TableNameOnly=pcb_and_mechanical_mounting_holes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap143]
+Options=FieldName=pcb_and_mechanical_mounting_holes.Footprint Path|TableNameOnly=pcb_and_mechanical_mounting_holes|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap144]
+Options=FieldName=pcb_and_mechanical_net_ties.part_id|TableNameOnly=pcb_and_mechanical_net_ties|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap145]
+Options=FieldName=pcb_and_mechanical_net_ties.Description|TableNameOnly=pcb_and_mechanical_net_ties|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap146]
+Options=FieldName=pcb_and_mechanical_net_ties.Library Ref|TableNameOnly=pcb_and_mechanical_net_ties|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap147]
+Options=FieldName=pcb_and_mechanical_net_ties.Library Path|TableNameOnly=pcb_and_mechanical_net_ties|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap148]
+Options=FieldName=pcb_and_mechanical_net_ties.Footprint Ref|TableNameOnly=pcb_and_mechanical_net_ties|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap149]
+Options=FieldName=pcb_and_mechanical_net_ties.Footprint Path|TableNameOnly=pcb_and_mechanical_net_ties|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap150]
+Options=FieldName=pcb_and_mechanical_test_points.part_id|TableNameOnly=pcb_and_mechanical_test_points|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap151]
+Options=FieldName=pcb_and_mechanical_test_points.Description|TableNameOnly=pcb_and_mechanical_test_points|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap152]
+Options=FieldName=pcb_and_mechanical_test_points.Library Ref|TableNameOnly=pcb_and_mechanical_test_points|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=pcb_and_mechanical_test_points.Library Path|TableNameOnly=pcb_and_mechanical_test_points|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=pcb_and_mechanical_test_points.Footprint Ref|TableNameOnly=pcb_and_mechanical_test_points|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap155]
+Options=FieldName=pcb_and_mechanical_test_points.Footprint Path|TableNameOnly=pcb_and_mechanical_test_points|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap156]
+Options=FieldName=protection_resettable_fuses.part_id|TableNameOnly=protection_resettable_fuses|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap157]
+Options=FieldName=protection_resettable_fuses.Description|TableNameOnly=protection_resettable_fuses|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap158]
+Options=FieldName=protection_resettable_fuses.Library Ref|TableNameOnly=protection_resettable_fuses|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap159]
+Options=FieldName=protection_resettable_fuses.Library Path|TableNameOnly=protection_resettable_fuses|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap160]
+Options=FieldName=protection_resettable_fuses.Footprint Ref|TableNameOnly=protection_resettable_fuses|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap161]
+Options=FieldName=protection_resettable_fuses.Footprint Path|TableNameOnly=protection_resettable_fuses|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap162]
+Options=FieldName=protection_tvs_diodes.part_id|TableNameOnly=protection_tvs_diodes|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap163]
+Options=FieldName=protection_tvs_diodes.Description|TableNameOnly=protection_tvs_diodes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap164]
+Options=FieldName=protection_tvs_diodes.Library Ref|TableNameOnly=protection_tvs_diodes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap165]
+Options=FieldName=protection_tvs_diodes.Library Path|TableNameOnly=protection_tvs_diodes|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap166]
+Options=FieldName=protection_tvs_diodes.Footprint Ref|TableNameOnly=protection_tvs_diodes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap167]
+Options=FieldName=protection_tvs_diodes.Footprint Path|TableNameOnly=protection_tvs_diodes|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap168]
+Options=FieldName=semiconductors_diodes.part_id|TableNameOnly=semiconductors_diodes|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap169]
+Options=FieldName=semiconductors_diodes.Description|TableNameOnly=semiconductors_diodes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap170]
+Options=FieldName=semiconductors_diodes.Library Ref|TableNameOnly=semiconductors_diodes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap171]
+Options=FieldName=semiconductors_diodes.Library Path|TableNameOnly=semiconductors_diodes|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap172]
+Options=FieldName=semiconductors_diodes.Footprint Ref|TableNameOnly=semiconductors_diodes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap173]
+Options=FieldName=semiconductors_diodes.Footprint Path|TableNameOnly=semiconductors_diodes|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap174]
+Options=FieldName=semiconductors_leds.part_id|TableNameOnly=semiconductors_leds|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap175]
+Options=FieldName=semiconductors_leds.Description|TableNameOnly=semiconductors_leds|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap176]
+Options=FieldName=semiconductors_leds.Library Ref|TableNameOnly=semiconductors_leds|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap177]
+Options=FieldName=semiconductors_leds.Library Path|TableNameOnly=semiconductors_leds|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap178]
+Options=FieldName=semiconductors_leds.Footprint Ref|TableNameOnly=semiconductors_leds|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap179]
+Options=FieldName=semiconductors_leds.Footprint Path|TableNameOnly=semiconductors_leds|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap180]
+Options=FieldName=semiconductors_mosfets.part_id|TableNameOnly=semiconductors_mosfets|FieldNameOnly=part_id|FieldType=0|ParameterName=part_id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap181]
+Options=FieldName=semiconductors_mosfets.Description|TableNameOnly=semiconductors_mosfets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap182]
+Options=FieldName=semiconductors_mosfets.Library Ref|TableNameOnly=semiconductors_mosfets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap183]
+Options=FieldName=semiconductors_mosfets.Library Path|TableNameOnly=semiconductors_mosfets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap184]
+Options=FieldName=semiconductors_mosfets.Footprint Ref|TableNameOnly=semiconductors_mosfets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap185]
+Options=FieldName=semiconductors_mosfets.Footprint Path|TableNameOnly=semiconductors_mosfets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
