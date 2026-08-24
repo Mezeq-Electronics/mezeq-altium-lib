@@ -1,0 +1,5 @@
+part_id must be unique
+library_ref must not be NULL
+status must be one of allowed states
+every parameter must belong to a valid component
+every footprint association must belong to a valid component
