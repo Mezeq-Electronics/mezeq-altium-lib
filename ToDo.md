@@ -1,4 +1,4 @@
-#To Do list
+# To Do list
 
 ## DB rules yet to be established 
 
@@ -7,6 +7,11 @@
 - status must be one of allowed states
 - every parameter must belong to a valid component
 - every footprint association must belong to a valid component
+
+## Respecto obligatory fields when inserting new component
+
+## Altium symbols/footprints
+- still need to unify Semiconductors symbols like in Passives
 
 ## DB mismatches
 
