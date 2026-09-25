@@ -19,7 +19,7 @@ LibrarySearchPath=..\Symbols;..\Footprints
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=ALTIUM
-LastFocusedTable=subcategories
+LastFocusedTable=all_components
 [Table1]
 SchemaName=
 TableName=all_components
@@ -32,9 +32,6 @@ TableName=categories
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=category_id0=95|name0=176
 [Table3]
 SchemaName=
 TableName=component_models
@@ -239,9 +236,6 @@ TableName=subcategories
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=subcategory_id0=117|category_id0=95|name0=134|view_name0=238
 [FieldMap1]
 Options=FieldName=all_components.Description|TableNameOnly=all_components|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
